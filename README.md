@@ -2,12 +2,17 @@
 <h3 align="center">Frontend Developer | Graphics Designer </h3>
 
 ![](https://komarev.com/ghpvc/?username=abdulswabul26)
+<!--- 👨🏾‍💻  All of my projects are available at [https://annorcode.io/](https://annorcode.io/)
+  -->
+- 📫  How to reach me **abdulswabul26@gmail.com**
 
-<h1>💬 Social</h1>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s.w.a_b.u.l/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/a_swabul26)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulswabul26@gmail.com)
+- ⚡  Fun fact: Basketball is a passion of mine. Call me Syke The Crazy 🥁
+<h1>💬 Connect With Me</h1>
+<p align="left">
+<a href="https://x.com/a_swabul26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annorcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulswabulsserunjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyamekye-annor" height="30" width="40" /></a>
+<a href="https://instagram.com/s.w.a_b.u.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annorcode" height="30" width="40" /></a>
+</p>
 
 <hr/>
 
