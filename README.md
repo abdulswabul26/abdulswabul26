@@ -16,9 +16,8 @@
 
 <hr/>
 
-<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulswabul26&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul/github-readme-stats)
 
