@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Sserunjogi Abdul Swabul</h1>
-<h3 align="center">Frontend Developer | Graphics Designer </h3>
+<h3 align="center">Frontend Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=abdulswabul26)
 <!--- 👨🏾‍💻  All of my projects are available at [https://annorcode.io/](https://annorcode.io/)
