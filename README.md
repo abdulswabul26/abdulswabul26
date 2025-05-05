@@ -5,8 +5,7 @@
 <!--- 👨🏾‍💻  All of my projects are available at [https://annorcode.io/](https://annorcode.io/)
   -->
 - 📫  How to reach me **abdulswabul26@gmail.com**
-
-- ⚡  Fun fact: Basketball is a passion of mine. Call me Syke The Crazy 🥁
+<!-- - ⚡  Fun fact: Basketball is a passion of mine. Call me Syke The Crazy 🥁-->
 <h1>💬 Connect With Me</h1>
 <p align="left">
 <a href="https://x.com/a_swabul26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annorcode" height="30" width="40" /></a>
