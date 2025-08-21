@@ -9,22 +9,23 @@
 <h1>💬 Connect With Me</h1>
 <p align="left">
 <a href="https://x.com/a_swabul26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annorcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulswabulsserunjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyamekye-annor" height="30" width="40" /></a>
-<a href="https://instagram.com/s.w.a_b.u.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annorcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulswabulsserunjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sserunjogi Abdul Swabul" height="30" width="40" /></a>
+<a href="https://instagram.com/s.w.a_b.u.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sserunjogiabdulswabul" height="30" width="40" /></a>
 </p>
 
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulswabul26&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
+[![Abdul Swabul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulswabul26&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul/github-readme-stats)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulswabul26&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
--->
+
 
 <h1>Technologies</h1>
 <h3>Programming and Styling Languages</h3>
