@@ -15,18 +15,6 @@
 
 <hr/>
 
-[![Abdul Swabul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulswabul26&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul/github-readme-stats)
-
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
--->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulswabul26&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
-
-
 <h1>Technologies</h1>
 <h3>Programming and Styling Languages</h3>
 
@@ -57,5 +45,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) -->
+
+<hr/>
+
+[![Abdul Swabul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulswabul26&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul/github-readme-stats)
+
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdulswabul26&layout=compact&theme=tokyonight)](https://github.com/abdulswabul26/github-readme-stats)
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulswabul26&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
